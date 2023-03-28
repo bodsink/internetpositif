@@ -1,3 +1,4 @@
 jnn-pa.googleapis.com
 dit.whatsapp.net
 youtubei.googleapis.com
+sdkconfig.ad.intl.xiaomi.com
