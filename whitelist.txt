@@ -1,1 +1,3 @@
 jnn-pa.googleapis.com
+dit.whatsapp.net
+youtubei.googleapis.com
